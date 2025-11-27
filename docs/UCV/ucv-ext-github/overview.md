@@ -19,6 +19,10 @@ DevOps Velocity plug-in images are located in DockerHub. To view available versi
 
 ## History
 
+### Version 1.5.4
+
+*  **Feature**: Implemented Copilot metric capturing, giving customers deeper visibility into how their teams use AI-assisted coding. Customers can now view engagement trends, daily activity, and usage patterns.
+
 ### Version 1.4.18
 
 * Changes in the Github plugin to handle draft PR and use the new field in the DB. Have added "top-level" field for "draft" on pull requests in our GraphQL schema.
